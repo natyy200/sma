@@ -1,1 +1,1 @@
-# SMA (Sistema Municipal de Alertas
+# SMA (Sistema Municipal de Alertas)
