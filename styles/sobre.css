@@ -1,4 +1,4 @@
-#sobre, #objetivo, #aplicativo {
+#sobre, #objetivo, #aplicativo, #localiza {
     /* background-color: var(--cor-de-sobre); */
     display: flex;
     flex-direction:column;
