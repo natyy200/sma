@@ -1,9 +1,14 @@
 @import url(styles/cabecalho.css);
 @import url(styles/sobre.css);
+@import url(styles/aplicativo.css);
 @import url(styles/contato.css);
 @import url(styles/rodape.css);
 
 body {
     background-color: #7eabb8;
     /* color: white; */
+}
+
+.conteudo img {
+    width: 20%;
 }
