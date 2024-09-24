@@ -1,25 +1,12 @@
-/* .map-responsive{
-
-    overflow:hidden;
-
-    padding-bottom:56.25%;
-
-    position:relative;
-
-    height:0;
+.map-responsive{
+    display:flex;
+    justify-content: center;
+    border: 1px solid black;
 
 }
 
 .map-responsive iframe{
+    
+    margin: auto;    
 
-    left:0;
-
-    top:0;
-
-    height:100%;
-
-    width:100%;
-
-    position:absolute;
-
-} */
+}
