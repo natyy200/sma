@@ -6,10 +6,26 @@
 @import url(styles/rodape.css);
 
 body {
-    background-color: #7eabb8;
-    /* color: white; */
+    background-color: #072e36;
+    color: #7b9494;
 }
 
-.conteudo img {
+main {
+    margin: 0 20%;
+}
+
+.div-layout {
     width: 20%;
+    display: flex; 
+    justify-content: center;
+}
+
+.layout {
+    margin: 10px;
+    border-radius: 20px;
+}
+
+main img {
+    width: 100%;
+    border-radius: 10px;
 }
